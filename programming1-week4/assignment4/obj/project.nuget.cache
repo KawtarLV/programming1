@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "80CYEUKTjD4hNs6TZ2zJw7dhR3HYKi4zzJUy1ZMWcfYTiOHF9nGga79MTp657xADzfdbYH/z3k6I3EE6aGJ3gw==",
+  "success": true,
+  "projectFilePath": "/Users/kawtar/Projects/prog1/programming1-week4/assignment4/assignment4.csproj",
+  "expectedPackageFiles": [
+    "/Users/kawtar/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kawtar/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/kawtar/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

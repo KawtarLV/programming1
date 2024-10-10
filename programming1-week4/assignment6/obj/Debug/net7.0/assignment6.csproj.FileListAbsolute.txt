@@ -1,0 +1,15 @@
+/Users/kawtar/Projects/programming1-week4/assignment6/bin/Debug/net7.0/assignment6
+/Users/kawtar/Projects/programming1-week4/assignment6/bin/Debug/net7.0/assignment6.deps.json
+/Users/kawtar/Projects/programming1-week4/assignment6/bin/Debug/net7.0/assignment6.runtimeconfig.json
+/Users/kawtar/Projects/programming1-week4/assignment6/bin/Debug/net7.0/assignment6.dll
+/Users/kawtar/Projects/programming1-week4/assignment6/bin/Debug/net7.0/assignment6.pdb
+/Users/kawtar/Projects/programming1-week4/assignment6/obj/Debug/net7.0/assignment6.csproj.AssemblyReference.cache
+/Users/kawtar/Projects/programming1-week4/assignment6/obj/Debug/net7.0/assignment6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kawtar/Projects/programming1-week4/assignment6/obj/Debug/net7.0/assignment6.AssemblyInfoInputs.cache
+/Users/kawtar/Projects/programming1-week4/assignment6/obj/Debug/net7.0/assignment6.AssemblyInfo.cs
+/Users/kawtar/Projects/programming1-week4/assignment6/obj/Debug/net7.0/assignment6.csproj.CoreCompileInputs.cache
+/Users/kawtar/Projects/programming1-week4/assignment6/obj/Debug/net7.0/assignment6.dll
+/Users/kawtar/Projects/programming1-week4/assignment6/obj/Debug/net7.0/refint/assignment6.dll
+/Users/kawtar/Projects/programming1-week4/assignment6/obj/Debug/net7.0/assignment6.pdb
+/Users/kawtar/Projects/programming1-week4/assignment6/obj/Debug/net7.0/assignment6.genruntimeconfig.cache
+/Users/kawtar/Projects/programming1-week4/assignment6/obj/Debug/net7.0/ref/assignment6.dll

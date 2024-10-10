@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{82BFB01D-C2D1-4E9B-B900-03B645F2C421}|Default">
+  <MonoDevelop.Ide.ItemProperties.assignment9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment7 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.assignment13 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.assignment10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assignment7/Program.cs">
+    <Files>
+      <File FileName="assignment7/Program.cs" Line="11" Column="11" IsPinned="True" />
+      <File FileName="assignment4/Program.cs" />
+      <File FileName="assignment1/Program.cs" />
+      <File FileName="assignment10/Program.cs" />
+      <File FileName="assignment9/Program.cs" />
+      <File FileName="assignment8/Program.cs" Line="1" Column="1" />
+      <File FileName="assignment6/Program.cs" Line="42" Column="19" />
+      <File FileName="assignment5/Program.cs" Line="39" Column="10" />
+      <File FileName="assignment3/Program.cs" Line="1" Column="1" />
+      <File FileName="assignment2/Program.cs" Line="12" Column="6" />
+      <File FileName="assignment13/Program.cs" Line="38" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Solution Programming1-week2" expanded="True">
+            <Node name="assignment10" expanded="True" />
+            <Node name="assignment13" expanded="True" />
+            <Node name="assignment2" expanded="True" />
+            <Node name="assignment3" expanded="True" />
+            <Node name="assignment4" expanded="True" />
+            <Node name="assignment5" expanded="True" />
+            <Node name="assignment6" expanded="True" />
+            <Node name="assignment7" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="assignment8" expanded="True" />
+            <Node name="assignment9" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.assignment3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.assignment8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.assignment6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment12 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assigenment4 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.assignment11 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

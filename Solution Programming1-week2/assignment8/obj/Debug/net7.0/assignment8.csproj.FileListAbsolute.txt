@@ -1,0 +1,15 @@
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/bin/Debug/net7.0/assignment8
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/bin/Debug/net7.0/assignment8.deps.json
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/bin/Debug/net7.0/assignment8.runtimeconfig.json
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/bin/Debug/net7.0/assignment8.dll
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/bin/Debug/net7.0/assignment8.pdb
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/obj/Debug/net7.0/assignment8.csproj.AssemblyReference.cache
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/obj/Debug/net7.0/assignment8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/obj/Debug/net7.0/assignment8.AssemblyInfoInputs.cache
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/obj/Debug/net7.0/assignment8.AssemblyInfo.cs
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/obj/Debug/net7.0/assignment8.csproj.CoreCompileInputs.cache
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/obj/Debug/net7.0/assignment8.dll
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/obj/Debug/net7.0/refint/assignment8.dll
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/obj/Debug/net7.0/assignment8.pdb
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/obj/Debug/net7.0/assignment8.genruntimeconfig.cache
+/Users/kawtar/Projects/Solution Programming1-week2/assignment8/obj/Debug/net7.0/ref/assignment8.dll
