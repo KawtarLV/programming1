@@ -13,7 +13,7 @@ class Program
 
     void Start()
     {
-        int[] diceCounts = new int[6];
+        int[] diceCounts = new int[arraySize];
         int numberOfThrows = 6000;
 
         ThrowDice(diceCounts, numberOfThrows);

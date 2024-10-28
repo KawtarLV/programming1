@@ -26,7 +26,8 @@ class Program
         Random random = new Random();
         for (int i=0;i<seats.Length; i++)
         {
-            seats[i] = random.Next(0, 2) == 0;
+            // Randomly set each seat as available (true) or booked (false)
+            seats[i] = random.Next(0, 2) == 0; // true for available, false for booked
         }
     }
 
@@ -42,6 +43,7 @@ class Program
     }
     void BookSeat(bool[] seats, int seatNumber)
     {
+        // Check if the seat is already booked
         if (!seats[seatNumber])
         { 
             Console.WriteLine($"Warning: Seat {seatNumber + 1} is already booked.");

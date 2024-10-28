@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/kawtar/.nuget/packages/": {}
+    "/Users/kawtarsadik/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kawtar/Projects/programming1-week3/assignment7/assignment7.csproj",
+      "projectUniqueName": "/Users/kawtarsadik/Documents/programming1/programming1-week3/assignment7/assignment7.csproj",
       "projectName": "assignment7",
-      "projectPath": "/Users/kawtar/Projects/programming1-week3/assignment7/assignment7.csproj",
-      "packagesPath": "/Users/kawtar/.nuget/packages/",
-      "outputPath": "/Users/kawtar/Projects/programming1-week3/assignment7/obj/",
+      "projectPath": "/Users/kawtarsadik/Documents/programming1/programming1-week3/assignment7/assignment7.csproj",
+      "packagesPath": "/Users/kawtarsadik/.nuget/packages/",
+      "outputPath": "/Users/kawtarsadik/Documents/programming1/programming1-week3/assignment7/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kawtar/.nuget/NuGet/NuGet.Config"
+        "/Users/kawtarsadik/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -57,15 +57,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.31, 6.0.31]"
+            "version": "[6.0.35, 6.0.35]"
           },
           {
-            "name": "Microsoft.NETCore.App.Host.osx-x64",
-            "version": "[6.0.31, 6.0.31]"
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[6.0.35, 6.0.35]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.31, 6.0.31]"
+            "version": "[6.0.35, 6.0.35]"
           }
         ],
         "frameworkReferences": {
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }

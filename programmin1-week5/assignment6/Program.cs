@@ -19,6 +19,7 @@ class Program
             Console.Write("Enter your vote (Yes/No):");
             string input = Console.ReadLine();
 
+
             VoteOption vote = (VoteOption)Enum.Parse(typeof(VoteOption), input,true);
             votingSystems.CastVote(vote);
         }

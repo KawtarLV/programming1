@@ -1,52 +1,52 @@
-﻿<Properties StartupConfiguration="{29B5C72C-D056-4C73-A16B-FA2BE3015D65}|Default">
+﻿<Properties StartupConfiguration="{4BF717A6-DB69-4C55-88CD-358871028C77}|Default">
+  <MonoDevelop.Ide.ItemProperties.assignment1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.assignment13 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.assignment11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.assignment4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="assignment8/Book.cs">
+  <MonoDevelop.Ide.ItemProperties.assignment12 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assignment13/Program.cs">
     <Files>
-      <File FileName="assignment7/Student.cs" Line="7" Column="29" IsPinned="True" />
-      <File FileName="assignment1/Program.cs" Line="1" Column="1" />
-      <File FileName="assignment1/Rectangle.cs" Line="1" Column="1" />
-      <File FileName="assignment2/Program.cs" Line="1" Column="1" />
-      <File FileName="assignment3/Program.cs" Line="1" Column="1" />
-      <File FileName="assignment4/Program.cs" Line="12" Column="1" />
-      <File FileName="assignment4/Book.cs" Line="1" Column="1" />
-      <File FileName="assignment5/Program.cs" Line="31" Column="19" />
-      <File FileName="assignment5/Person.cs" Line="1" Column="1" />
-      <File FileName="assignment7/Program.cs" />
-      <File FileName="assignment6/VotingSystem.cs" />
-      <File FileName="assignment8/Program.cs" Line="22" Column="1" />
-      <File FileName="assignment8/Book.cs" Line="17" Column="55" />
-      <File FileName="assignment8/Library.cs" Line="32" Column="15" />
-      <File FileName="assignment2/Day.cs" Line="1" Column="1" />
+      <File FileName="assignment9/BankAccount.cs" Line="6" Column="9" />
+      <File FileName="assignment9/Bank.cs" Line="62" Column="2" />
+      <File FileName="assignment9/Program.cs" Line="7" Column="1" />
+      <File FileName="assignment10/Program.cs" Line="7" Column="5" />
+      <File FileName="assignment10/Question.cs" Line="18" Column="8" />
+      <File FileName="assignment10/Quiz.cs" Line="19" Column="18" />
+      <File FileName="assignment11/Program.cs" Line="31" Column="1" />
+      <File FileName="assignment11/Employee.cs" Line="16" Column="3" />
+      <File FileName="assignment11/EmployeeManager.cs" Line="12" Column="28" />
+      <File FileName="assignment12/Program.cs" Line="7" Column="2" />
+      <File FileName="assignment12/TrafficLight.cs" Line="11" Column="1" />
+      <File FileName="assignment12/TrafficLightSimulator.cs" Line="35" Column="1" />
+      <File FileName="assignment2/Day.cs" Line="6" Column="9" />
+      <File FileName="assignment13/Program.cs" Line="26" Column="1" />
+      <File FileName="assignment13/Event.cs" Line="17" Column="1" />
+      <File FileName="assignment13/EventScheduler.cs" Line="28" Column="89" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="programmin1-week5" expanded="True">
-            <Node name="assignment1" expanded="True" />
-            <Node name="assignment2" expanded="True" />
-            <Node name="assignment3" expanded="True" />
-            <Node name="assignment4" expanded="True" />
-            <Node name="assignment5" expanded="True" />
-            <Node name="assignment7" expanded="True" />
-            <Node name="assignment8" expanded="True">
-              <Node name="Book.cs" selected="True" />
+            <Node name="assignment13">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.assignment6 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.assignment7 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.assignment5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.assignment8 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.assignment2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.assignment3 FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.assignment1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment9 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

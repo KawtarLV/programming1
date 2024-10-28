@@ -1,0 +1,15 @@
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/bin/Debug/net8.0/assignment9
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/bin/Debug/net8.0/assignment9.deps.json
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/bin/Debug/net8.0/assignment9.runtimeconfig.json
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/bin/Debug/net8.0/assignment9.dll
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/bin/Debug/net8.0/assignment9.pdb
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/obj/Debug/net8.0/assignment9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/obj/Debug/net8.0/assignment9.AssemblyInfoInputs.cache
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/obj/Debug/net8.0/assignment9.AssemblyInfo.cs
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/obj/Debug/net8.0/assignment9.csproj.CoreCompileInputs.cache
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/obj/Debug/net8.0/assignment9.sourcelink.json
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/obj/Debug/net8.0/assignment9.dll
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/obj/Debug/net8.0/refint/assignment9.dll
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/obj/Debug/net8.0/assignment9.pdb
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/obj/Debug/net8.0/assignment9.genruntimeconfig.cache
+/Users/kawtarsadik/Documents/programming1/programmin1-week5/assignment9/obj/Debug/net8.0/ref/assignment9.dll

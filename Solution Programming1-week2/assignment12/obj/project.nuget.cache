@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "aJZlvLup1guA5M792HvtgiSn8w41dkCD6rGFT+st4qDxfsWEuqa8msVjngOMIYgPvAVE/V5FndYOkiYGxzVCLQ==",
+  "dgSpecHash": "3OXhP1iU2TNHI1Cba8feUcNGl/Mq5+zO01DInTaxMbIdESLdvaZFsI12h75uQ3FtnjB9nc+SOawgzcI99wqJpQ==",
   "success": true,
-  "projectFilePath": "/Users/kawtar/Projects/Solution Programming1-week2/assignment12/assignment12.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/kawtarsadik/Documents/programming1/Solution Programming1-week2/assignment12/assignment12.csproj",
+  "expectedPackageFiles": [
+    "/Users/kawtarsadik/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/kawtarsadik/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512",
+    "/Users/kawtarsadik/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

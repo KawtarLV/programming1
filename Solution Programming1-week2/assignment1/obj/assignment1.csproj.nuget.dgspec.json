@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kawtar/Projects/Solution Programming1-week2/assignment1/assignment1.csproj": {}
+    "/Users/kawtarsadik/Documents/programming1/Solution Programming1-week2/assignment1/assignment1.csproj": {}
   },
   "projects": {
-    "/Users/kawtar/Projects/Solution Programming1-week2/assignment1/assignment1.csproj": {
+    "/Users/kawtarsadik/Documents/programming1/Solution Programming1-week2/assignment1/assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kawtar/Projects/Solution Programming1-week2/assignment1/assignment1.csproj",
+        "projectUniqueName": "/Users/kawtarsadik/Documents/programming1/Solution Programming1-week2/assignment1/assignment1.csproj",
         "projectName": "assignment1",
-        "projectPath": "/Users/kawtar/Projects/Solution Programming1-week2/assignment1/assignment1.csproj",
-        "packagesPath": "/Users/kawtar/.nuget/packages/",
-        "outputPath": "/Users/kawtar/Projects/Solution Programming1-week2/assignment1/obj/",
+        "projectPath": "/Users/kawtarsadik/Documents/programming1/Solution Programming1-week2/assignment1/assignment1.csproj",
+        "packagesPath": "/Users/kawtarsadik/.nuget/packages/",
+        "outputPath": "/Users/kawtarsadik/Documents/programming1/Solution Programming1-week2/assignment1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kawtar/.nuget/NuGet/NuGet.Config"
+          "/Users/kawtarsadik/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }

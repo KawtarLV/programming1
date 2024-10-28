@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = assignment12
-build_property.ProjectDir = /Users/kawtar/Projects/Solution Programming1-week2/assignment12/
+build_property.ProjectDir = /Users/kawtarsadik/Documents/programming1/Solution Programming1-week2/assignment12/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
